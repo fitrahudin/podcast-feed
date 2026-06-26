@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Rekomendasi Buku Terbaik</title>
+    <link>https://username.github.io/feed</link>
+    <description>Podcast rekomendasi buku — Rekomendasi Buku Terbaik</description>
+    <language>id</language>
+    <lastBuildDate>Fri, 26 Jun 2026 07:15:10 -0000</lastBuildDate>
+    <itunes:author>Nama Kamu</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Nama Kamu</itunes:name>
+      <itunes:email>kamu@email.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://example.com/cover.jpg" />
+    <itunes:category text="Books" />
+    <item>
+      <title>Laskar Pelangi oleh Andrea Hirata — Rekomendasi Buku</title>
+      <description>Kisah persahabatan dan semangat belajar anak-anak di Belitung
+
+Genre: Fiksi | Tahun: 2005
+
+Dapatkan bukunya: https://example.com/laskar-pelangi</description>
+      <pubDate>Sun, 14 Jun 2026 07:15:10 -0000</pubDate>
+      <guid>https://archive.org/download/podcast-buku-001/episode_001_Laskar_Pelangi.mp3</guid>
+      <enclosure url="https://archive.org/download/podcast-buku-001/episode_001_Laskar_Pelangi.mp3" type="audio/mpeg" length="1000000" />
+      <itunes:title>Laskar Pelangi oleh Andrea Hirata — Rekomendasi Buku</itunes:title>
+      <itunes:summary>Kisah persahabatan dan semangat belajar anak-anak di Belitung
+
+Genre: Fiksi | Tahun: 2005
+
+Dapatkan bukunya: https://example.com/laskar-pelangi</itunes:summary>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Bumi Manusia oleh Pramoedya Ananta Toer — Rekomendasi Buku</title>
+      <description>Novel epik tentang perjuangan di era kolonial Belanda
+
+Genre: Sejarah | Tahun: 1980
+
+Dapatkan bukunya: https://example.com/bumi-manusia</description>
+      <pubDate>Wed, 17 Jun 2026 07:15:10 -0000</pubDate>
+      <guid>https://archive.org/download/podcast-buku-002/episode_002_Bumi_Manusia.mp3</guid>
+      <enclosure url="https://archive.org/download/podcast-buku-002/episode_002_Bumi_Manusia.mp3" type="audio/mpeg" length="1000000" />
+      <itunes:title>Bumi Manusia oleh Pramoedya Ananta Toer — Rekomendasi Buku</itunes:title>
+      <itunes:summary>Novel epik tentang perjuangan di era kolonial Belanda
+
+Genre: Sejarah | Tahun: 1980
+
+Dapatkan bukunya: https://example.com/bumi-manusia</itunes:summary>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Negeri 5 Menara oleh Ahmad Fuadi — Rekomendasi Buku</title>
+      <description>Perjalanan santri meraih mimpi ke luar negeri
+
+Genre: Fiksi Inspiratif | Tahun: 2009
+
+Dapatkan bukunya: https://example.com/negeri-5-menara</description>
+      <pubDate>Sat, 20 Jun 2026 07:15:10 -0000</pubDate>
+      <guid>https://archive.org/download/podcast-buku-003/episode_003_Negeri_5_Menara.mp3</guid>
+      <enclosure url="https://archive.org/download/podcast-buku-003/episode_003_Negeri_5_Menara.mp3" type="audio/mpeg" length="1000000" />
+      <itunes:title>Negeri 5 Menara oleh Ahmad Fuadi — Rekomendasi Buku</itunes:title>
+      <itunes:summary>Perjalanan santri meraih mimpi ke luar negeri
+
+Genre: Fiksi Inspiratif | Tahun: 2009
+
+Dapatkan bukunya: https://example.com/negeri-5-menara</itunes:summary>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Filosofi Teras oleh Henry Manampiring — Rekomendasi Buku</title>
+      <description>Panduan hidup tenang ala filsafat Stoa
+
+Genre: Self-Help | Tahun: 2018
+
+Dapatkan bukunya: https://example.com/filosofi-teras</description>
+      <pubDate>Tue, 23 Jun 2026 07:15:10 -0000</pubDate>
+      <guid>https://archive.org/download/podcast-buku-004/episode_004_Filosofi_Teras.mp3</guid>
+      <enclosure url="https://archive.org/download/podcast-buku-004/episode_004_Filosofi_Teras.mp3" type="audio/mpeg" length="1000000" />
+      <itunes:title>Filosofi Teras oleh Henry Manampiring — Rekomendasi Buku</itunes:title>
+      <itunes:summary>Panduan hidup tenang ala filsafat Stoa
+
+Genre: Self-Help | Tahun: 2018
+
+Dapatkan bukunya: https://example.com/filosofi-teras</itunes:summary>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Atomic Habits oleh James Clear — Rekomendasi Buku</title>
+      <description>Cara membangun kebiasaan kecil yang mengubah hidup
+
+Genre: Self-Help | Tahun: 2019
+
+Dapatkan bukunya: https://example.com/atomic-habits</description>
+      <pubDate>Fri, 26 Jun 2026 07:15:10 -0000</pubDate>
+      <guid>https://archive.org/download/podcast-buku-005/episode_005_Atomic_Habits.mp3</guid>
+      <enclosure url="https://archive.org/download/podcast-buku-005/episode_005_Atomic_Habits.mp3" type="audio/mpeg" length="1000000" />
+      <itunes:title>Atomic Habits oleh James Clear — Rekomendasi Buku</itunes:title>
+      <itunes:summary>Cara membangun kebiasaan kecil yang mengubah hidup
+
+Genre: Self-Help | Tahun: 2019
+
+Dapatkan bukunya: https://example.com/atomic-habits</itunes:summary>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+    </item>
+  </channel>
+</rss>
